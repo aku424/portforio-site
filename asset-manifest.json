@@ -1,23 +1,35 @@
 {
   "files": {
-    "main.css": "/portforio-site/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/portforio-site/static/js/main.33d8bc42.chunk.js",
-    "main.js.map": "/portforio-site/static/js/main.33d8bc42.chunk.js.map",
-    "runtime-main.js": "/portforio-site/static/js/runtime-main.edd3562f.js",
-    "runtime-main.js.map": "/portforio-site/static/js/runtime-main.edd3562f.js.map",
-    "static/js/2.923cf8b1.chunk.js": "/portforio-site/static/js/2.923cf8b1.chunk.js",
-    "static/js/2.923cf8b1.chunk.js.map": "/portforio-site/static/js/2.923cf8b1.chunk.js.map",
-    "static/js/3.45200883.chunk.js": "/portforio-site/static/js/3.45200883.chunk.js",
-    "static/js/3.45200883.chunk.js.map": "/portforio-site/static/js/3.45200883.chunk.js.map",
+    "main.css": "/portforio-site/static/css/main.a848dfad.chunk.css",
+    "main.js": "/portforio-site/static/js/main.7f13320c.chunk.js",
+    "main.js.map": "/portforio-site/static/js/main.7f13320c.chunk.js.map",
+    "runtime-main.js": "/portforio-site/static/js/runtime-main.c107fb04.js",
+    "runtime-main.js.map": "/portforio-site/static/js/runtime-main.c107fb04.js.map",
+    "static/js/2.18bfb819.chunk.js": "/portforio-site/static/js/2.18bfb819.chunk.js",
+    "static/js/2.18bfb819.chunk.js.map": "/portforio-site/static/js/2.18bfb819.chunk.js.map",
+    "static/js/3.c866530f.chunk.js": "/portforio-site/static/js/3.c866530f.chunk.js",
+    "static/js/3.c866530f.chunk.js.map": "/portforio-site/static/js/3.c866530f.chunk.js.map",
     "index.html": "/portforio-site/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/portforio-site/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.923cf8b1.chunk.js.LICENSE.txt": "/portforio-site/static/js/2.923cf8b1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/portforio-site/static/media/logo.6ce24c58.svg"
+    "static/css/main.a848dfad.chunk.css.map": "/portforio-site/static/css/main.a848dfad.chunk.css.map",
+    "static/js/2.18bfb819.chunk.js.LICENSE.txt": "/portforio-site/static/js/2.18bfb819.chunk.js.LICENSE.txt",
+    "static/media/LP1.a5113fda.png": "/portforio-site/static/media/LP1.a5113fda.png",
+    "static/media/LP2.d2adc988.png": "/portforio-site/static/media/LP2.d2adc988.png",
+    "static/media/RubyApp.8c19c51c.png": "/portforio-site/static/media/RubyApp.8c19c51c.png",
+    "static/media/WPSite.e6d1aa8d.png": "/portforio-site/static/media/WPSite.e6d1aa8d.png",
+    "static/media/about.557950eb.jpg": "/portforio-site/static/media/about.557950eb.jpg",
+    "static/media/contact.b2145059.jpg": "/portforio-site/static/media/contact.b2145059.jpg",
+    "static/media/history.3a6b8bb8.jpg": "/portforio-site/static/media/history.3a6b8bb8.jpg",
+    "static/media/movies.b24c38bc.jpg": "/portforio-site/static/media/movies.b24c38bc.jpg",
+    "static/media/prof.51086bbd.jpeg": "/portforio-site/static/media/prof.51086bbd.jpeg",
+    "static/media/react.eda23d58.png": "/portforio-site/static/media/react.eda23d58.png",
+    "static/media/top.93e2970a.jpeg": "/portforio-site/static/media/top.93e2970a.jpeg",
+    "static/media/works.77b6cedb.jpg": "/portforio-site/static/media/works.77b6cedb.jpg",
+    "static/media/wp.fa264aeb.png": "/portforio-site/static/media/wp.fa264aeb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.edd3562f.js",
-    "static/js/2.923cf8b1.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.33d8bc42.chunk.js"
+    "static/js/runtime-main.c107fb04.js",
+    "static/js/2.18bfb819.chunk.js",
+    "static/css/main.a848dfad.chunk.css",
+    "static/js/main.7f13320c.chunk.js"
   ]
 }
